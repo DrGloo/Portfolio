@@ -23,16 +23,16 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I'm a developer based in Brooklyn, NY specializing in building exceptional websites, applications, and everything in between.",
+    "aboutme":"I'm a developer based in Brooklyn, NY specializing in building exceptional websites, applications, and everything in between.I'm a crypto enthusiast, I fell in love with the concept of blockchains & decentralization since I was a teenager.",
     "address":"Brooklyn, New York",
     "website":"https://drgloo.github.io",
     "education":[
       {
         "UniversityName":"Borough of Manhattan Community College",
         "specialization":"Computer Science",
-        "MonthOfPassing":"Dec",
-        "YearOfPassing":"2021",
-        "Achievements":"Increased my knowledge on the fundementals of Computer Science by learning the stucture mechnization of Computing."
+        "MonthOfPassing":"N/A",
+        "YearOfPassing":"N/A",
+        "Achievements":"Took a few classes, increasing my knowledge on the fundementals of Computer Science by learning the stucture mechnization of Computing."
       },
     ],
     /*"work":[
