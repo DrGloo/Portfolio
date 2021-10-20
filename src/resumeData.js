@@ -23,7 +23,7 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I'm a developer based in Brooklyn, NY specializing in building exceptional websites, applications, and everything in between.I'm a crypto enthusiast, I fell in love with the concept of blockchains & decentralization since I was a teenager.",
+    "aboutme":"I'm a developer based in Brooklyn, NY specializing in building exceptional websites, applications, and everything in between.I'm a crypto enthusiast, I fell in love with the concept of blockchains & decentralization since I was a teenager.My lifetime mission is to constantly improve the medium we all know as the Web.",
     "address":"Brooklyn, New York",
     "website":"https://drgloo.github.io",
     "education":[
