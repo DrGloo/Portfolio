@@ -23,7 +23,7 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a final year student at the Borough of Manhattan Community College and pursuing my bachelor's in Computer Science from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe in becoming the best version of myself, so I can contribute more to the world.",
+    "aboutme":"I'm a developer based in Brooklyn, NY specializing in building exceptional websites, applications, and everything in between.",
     "address":"Brooklyn, New York",
     "website":"https://drgloo.github.io",
     "education":[
