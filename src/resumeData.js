@@ -51,7 +51,7 @@ let resumeData = {
         "Achievements":"Some Achievements"
       }
     ], */
-    "skillsDescription":"I'm able to understand problems clearly, break them down into hypotheses, and propose solutions in a coherent manner. I understand concepts quickly, or ask the right questions to help make them clear, and don't need to have everything written down.Generalization of my Skills",
+    "skillsDescription":"I'm able to understand problems clearly, break them down into hypotheses, and propose solutions in a coherent manner. I understand concepts quickly, or ask the right questions to help make them clear, and don't need to have everything written down.Here is a small visual of the generalization of my skills",
     "skills":[
       {
         "skillname":"Full Stack Development"
