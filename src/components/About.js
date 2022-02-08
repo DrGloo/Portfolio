@@ -2,8 +2,12 @@ import React, { Component } from 'react';
 export default class About extends Component {
   render() {
     let resumeData = this.props.resumeData;
+      const mystyle = {
+      color: "white",
+      backgroundColor: "#010a38",
+    };
     return (
-      <section id="about">
+      <section id="about" style={mystyle}>
          <div className="row">
 
             <div className="three columns">

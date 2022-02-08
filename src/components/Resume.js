@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+
 export default  class Resume extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -34,9 +35,12 @@ export default  class Resume extends Component {
         <div className="row work">
             <div className="three columns header-col">
                <h1><span>Work</span></h1>
+                
             </div>
 
             <div className="nine columns main-col">
+              <button>View Projects & Work</button>
+
               {
                 resumeData.work && resumeData.work.map((item) => {
                   return(
