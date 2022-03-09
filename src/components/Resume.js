@@ -1,4 +1,7 @@
 import React, { Component } from 'react';
+import Popup from 'reactjs-popup';
+import 'reactjs-popup/dist/index.css';
+
 
 export default  class Resume extends Component {
   render() {
@@ -39,8 +42,10 @@ export default  class Resume extends Component {
             </div>
 
             <div className="nine columns main-col">
-              <button>View Projects & Work</button>
-
+              <Popup trigger={<button>View Projects & Work</button>
+} position="right center">
+                <div>Popup content here !!</div>
+              </Popup>
               {
                 resumeData.work && resumeData.work.map((item) => {
                   return(
