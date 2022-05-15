@@ -18,7 +18,7 @@ let resumeData = {
           "className":"fa fa-github"
         },
         {
-          "name":"skype",
+          "name":"twitter",
           "url":"http://twitter.com/raishanbernard",
           "className":"fa fa-twitter"
         }
