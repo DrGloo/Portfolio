@@ -4,7 +4,7 @@ export default class About extends Component {
     let resumeData = this.props.resumeData;
       const mystyle = {
       color: "white",
-      backgroundColor: "#6982fc",
+      backgroundColor: "#0425c8",
     };
     return (
       <section id="about" style={mystyle}>
