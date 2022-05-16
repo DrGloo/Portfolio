@@ -57,10 +57,10 @@ let resumeData = {
         "skillname":"Full Stack Development"
       },
       {
-        "skillname":"Python Development"
+        "skillname":"Java Development"
       },
       {
-        "skillname":"Java Development"
+        "skillname":"Python Development"
       }
     ],
     "portfolio":[
