@@ -19,7 +19,7 @@ export default class About extends Component {
             <div className="nine columns main-col">
 
                <h2>About Me</h2>
-               <p>
+               <p id="aboutText">
                {
                  resumeData.aboutme
                }
