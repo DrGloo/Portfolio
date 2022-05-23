@@ -32,7 +32,7 @@ let resumeData = {
         "specialization":"Computer Science",
         "MonthOfPassing":"N/A",
         "YearOfPassing":"N/A",
-        "Achievements":"Took a few classes, increasing my knowledge on the fundementals of Computer Science by learning the stucture mechnization of Computing."
+        "Achievements":"Took a few classes, increasing my knowledge on the fundementals of Computer Science."
       },
     ],
     /*"work":[
