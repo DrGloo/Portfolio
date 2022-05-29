@@ -5,7 +5,7 @@ let resumeData = {
     "linkedinId":"Raishan Bernard",
     "discord":"drgloo#3104",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of development and love to learn about new technologies, write code for my projects or learn new concepts",
+    "roleDescription": "I like dabbling in various parts of development and learn about new technologies, write code for my projects or learn new concepts",
     "socialLinks":[
         {
           "name":"linkedin",
