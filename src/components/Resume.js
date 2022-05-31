@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Popup from 'reactjs-popup';
 import 'reactjs-popup/dist/index.css';
 
-
+// pretty code
 export default  class Resume extends Component {
   render() {
     let resumeData = this.props.resumeData;
