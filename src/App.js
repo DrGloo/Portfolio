@@ -6,6 +6,7 @@ import Testimonials from  './components/Testimonials';
 import ContactUs from './components/ContactUs';
 import Footer from './components/Footer';
 import resumeData from './resumeData';
+// good modular code 
 class App extends Component {
   render() {
     return (
