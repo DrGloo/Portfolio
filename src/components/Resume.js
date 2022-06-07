@@ -44,7 +44,7 @@ export default  class Resume extends Component {
             <div className="nine columns main-col">
               <Popup trigger={<button>View Projects & Work</button>
 } position="right center">
-                <div>Popup content here</div>
+                <div>content here</div>
               </Popup>
               {
                 resumeData.work && resumeData.work.map((item) => {
