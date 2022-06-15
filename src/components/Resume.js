@@ -6,7 +6,6 @@ import Box from '@mui/material/Box';
 import ButtonBase from '@mui/material/ButtonBase';
 import Typography from '@mui/material/Typography';
 
-// pretty code
 export default  class Resume extends Component {
   render() {
     let resumeData = this.props.resumeData;
