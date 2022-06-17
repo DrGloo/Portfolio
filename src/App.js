@@ -20,5 +20,5 @@ class App extends Component {
     );
   }
 }
-
+// small  note
 export default App;
