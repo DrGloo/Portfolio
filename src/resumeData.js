@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl":"https://drgloo.github.io/",
     "name": "Raishan Bernard",
-    "role": "Developer",
+    "role": "Software Engineer",
     "linkedinId":"Raishan Bernard",
     "discord":"drgloo#3104",
     "skypeid": "Your skypeid",
